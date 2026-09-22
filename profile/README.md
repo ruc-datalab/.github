@@ -2,7 +2,7 @@
 
 Welcome to **RUC-DataLab**, the Data Intelligence Lab at Renmin University of China.
 
-We explore data-centric AI, autonomous data science, and intelligent data management. Our open-source projects include [DeepAnalyze](https://github.com/ruc-datalab/DeepAnalyze), [EvoOntology](https://github.com/ruc-datalab/EvoOntology), and [SkillAdam](https://github.com/ruc-datalab/SkillAdam).
+We explore data-centric AI, autonomous data science, and intelligent data management.
 
 <a href="https://github.com/ruc-datalab"><img src="https://img.shields.io/badge/GitHub-RUC--DataLab-181717?logo=github" alt="RUC-DataLab on GitHub" /></a>&nbsp;
 <a href="https://ruc-datalab.github.io/"><img src="https://img.shields.io/badge/Home-Page-green" alt="RUC-DataLab homepage" /></a>&nbsp;
